@@ -6,7 +6,7 @@ description: >-
 
 # Learner's Block
 
-![](.gitbook/assets/img_0424_iphone12miniblack_portrait.png)
+![](.gitbook/assets/lb-phone-mockup.png)
 
 ## What is a Learner's Block?
 
