@@ -6,7 +6,7 @@ description: A guide to the features of the Makerspace
 
 You can head over and sign-up for free to explore the Makerspace for yourself:
 
-> [https://makerspace.learnersblock.org](https://makerspace.learnersblock.org)
+> [https://makerspace.learnersblock.org/register](https://makerspace.learnersblock.org/register)
 
 Alternatively, here are some pointers to get you started.
 

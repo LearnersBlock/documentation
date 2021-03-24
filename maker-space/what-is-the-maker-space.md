@@ -14,5 +14,5 @@ When you create a bookshelf, it remains private, only you can see it. When you h
 
 Our Makerspace is multilingual, and the languages will change based on the language of the computer accessing it. If however, you want to [change the language](../how-to-use-it/setting-the-language.md), you can do so in your Profile page. 
 
-Head over to the [Learner’s Block Makerspace](http://makerspace.learnersblock.org/) to sign up.
+Head over to the [Learner’s Block Makerspace](https://makerspace.learnersblock.org/register) to sign up.
 
