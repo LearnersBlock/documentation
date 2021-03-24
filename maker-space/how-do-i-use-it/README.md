@@ -4,7 +4,11 @@ description: A guide to the features of the Makerspace
 
 # How do I use it?
 
-Our goal in the Makerspace is for it to be familiar to users of common word processors like Word or Google Docs. Here we provide a brief overview of how to use some of the core features.
+You can head over and sign-up for free to explore the Makerspace for yourself:
+
+> [https://makerspace.learnersblock.org](https://makerspace.learnersblock.org)
+
+Alternatively, here are some pointers to get you started.
 
 {% page-ref page="shelves-books-chapters-and-pages.md" %}
 
