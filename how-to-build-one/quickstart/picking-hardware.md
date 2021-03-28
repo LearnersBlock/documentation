@@ -8,7 +8,7 @@ We support a number of different hardware platforms, ranging in power and price 
 * [Balena Fin](https://www.balena.io/fin/?)
 
 {% hint style="info" %}
-We also provide a [Raspberry Pi 3 image](https://downloads.learnersblock.org) for those who already have the hardware. We do not recommend buying a Pi 3 however, but to instead buy the Pi 4, which is why the Pi 3 is not included in this documentation. 
+We also provide a [Raspberry Pi 2 image](https://downloads.learnersblock.org) and [Raspberry Pi 3 image](https://downloads.learnersblock.org) for those who already have the hardware. We do not recommend buying a Pi 2 or 3 however, but to instead buy the Pi 4 due to its improved features at around the same cost, which is why the Pi 2 and 3 are not included in this documentation. 
 {% endhint %}
 
 While there are lots to distinguish between the hardware, here is an overview of what we deem to be particularly noteworthy:
