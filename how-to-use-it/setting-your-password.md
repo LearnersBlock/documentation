@@ -4,7 +4,7 @@
 
 In the settings panel, there are a number of features you may not want curious people to be poking around with. That is why you can set a password to lock the Settings panel, and we suggest using it. 
 
-Click the Settings cog in the top right of the screen![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52.png).
+Click the Settings cog in the top right of the screen![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
 
 Then click the 'Set Password' button:
 

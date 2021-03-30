@@ -6,7 +6,7 @@ There are a multitude of ways to add a range of content to your device. Click a 
 {% tab title="Through your Browser" %}
 ## Files and Folders
 
-[Connect to your device](how-to-connect.md), and login to the settings panel by clicking the Settings cog at the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).  
+[Connect to your device](how-to-connect.md), and login to the settings panel by clicking the Settings cog at the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29%20%281%29.png).  
 
 Under the 'Components' panel, click anywhere on the 'Files' row:
 
@@ -20,7 +20,7 @@ When a user clicks on the 'Files' menu on the first page of the Block, they will
 
 A special folder exists on the Block called 'Websites'. This folder works differently than the others. When users of the Block view the content you add in this folder, they will not see files and folders like in the 'Files' component detailed above. Instead, the folder is treated like a web server, where index.html and index.php are sought and opened as webpages when available. 
 
-To add content, [connect to your device](how-to-connect.md), and login to the settings panel by clicking the Settings cog at the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).  
+To add content, [connect to your device](how-to-connect.md), and login to the settings panel by clicking the Settings cog at the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29%20%281%29.png).  
 
 Under the 'Components' panel, click anywhere on the 'Website' row:
 
@@ -32,7 +32,7 @@ When a user clicks on the 'Website' menu on the first page of the Block, they wi
 {% endtab %}
 
 {% tab title="From the Library" %}
-If you would like to add resources from the Learner's Block Library, [connect to your device](how-to-connect.md), and login to the settings panel by clicking the Settings cog at the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
+If you would like to add resources from the Learner's Block Library, [connect to your device](how-to-connect.md), and login to the settings panel by clicking the Settings cog at the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29%20%281%29.png).
 
 Under the 'Components' panel, click anywhere on the 'Library' row:
 

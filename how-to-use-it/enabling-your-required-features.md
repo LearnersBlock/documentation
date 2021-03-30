@@ -1,6 +1,6 @@
 # Enabling components
 
-A Learner's Block is packed with features. But not everyone will need them all. That is why we let you disable the ones you do not need to prevent users from seeing unnecessary buttons. Click on the Settings cog in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52.png).
+A Learner's Block is packed with features. But not everyone will need them all. That is why we let you disable the ones you do not need to prevent users from seeing unnecessary buttons. Click on the Settings cog in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
 
 Under the 'Components' section, use the toggles on the right to enable or disable components:
 

@@ -6,7 +6,7 @@ Your Block will work perfectly well offline. But if you have access to another W
 2. Your Block can handle more users connected simultaneously
 3. Your users will not need to be close to the Block to access it
 
-In order to connect to a network, click the Settings toggle in the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52.png).
+In order to connect to a network, click the Settings toggle in the top right of the interface![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
 
 Under the Wi-Fi section, click 'Connect'
 
