@@ -8,7 +8,7 @@ If however, you want to change the language, you can do so by going to your prof
 
 and then selecting your preferred language from the dropdown menu:
 
-![](../../.gitbook/assets/screenshot-2021-03-22-at-19.48.03%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/screenshot-2021-03-22-at-19.48.03%20%281%29%20%281%29%20%281%29.png)
 
 
 
