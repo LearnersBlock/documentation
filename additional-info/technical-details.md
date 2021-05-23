@@ -8,7 +8,7 @@ At the base of our project is [Balena](https://www.balena.io), an open-source pr
 
 ## Updates
 
-Each Block is connected to our own instance of Open Balena and hosted on [Hetzner](http://hetzner.com) infrastructure. This service allows security, stability, language and feature updates to be deployed to Blocks when they come online. 
+Each Block is connected to the [Balena Cloud](https://www.balena.io/cloud) infrastructure. This service allows security, stability, language and feature updates to be deployed to Blocks when they come online. 
 
 Updates are installed automatically and in the background. Individual layers of each container are updated rather than the entire container in order to reduce data usage. Only after installations complete successfully are previous versions removed in order to ensure maximum uptime and to reduce risks of Blocks being corrupted if disconnected during updates. 
 

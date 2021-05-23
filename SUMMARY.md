@@ -32,17 +32,6 @@
 
 * [What is the Library?](library/what-is-the-library.md)
 
-## Makerspace <a id="maker-space"></a>
-
-* [What is the Makerspace?](maker-space/what-is-the-maker-space.md)
-* [How do I use it?](maker-space/how-do-i-use-it/README.md)
-  * [Creating shelves, books, chapters and pages](maker-space/how-do-i-use-it/shelves-books-chapters-and-pages.md)
-  * [Organising Content](maker-space/how-do-i-use-it/organising-content.md)
-  * [Searching Content](maker-space/how-do-i-use-it/searching-content.md)
-  * [Exporting content](maker-space/how-do-i-use-it/exporting-content.md)
-  * [Change the language](maker-space/how-do-i-use-it/change-the-language.md)
-  * [Shortcut keys](maker-space/how-do-i-use-it/shortcut-keys.md)
-
 ## Contributing
 
 * [How can I contribute?](contributing/how-can-i-contribute.md)
