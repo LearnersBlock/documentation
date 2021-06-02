@@ -49,10 +49,6 @@ When a user clicks on the 'Library' menu on the first page of the Block, they wi
 If you want to delete Library content later, navigate to the settings panel, click on the 'Files' component, and then navigate to the 'Library' folder. 
 {% endtab %}
 
-{% tab title="From the Makerspace" %}
-This feature is still under construction. We will add details here when it is ready to go. 
-{% endtab %}
-
 {% tab title="From a USB Drive" %}
 Plug your USB Drive into your Block.
 

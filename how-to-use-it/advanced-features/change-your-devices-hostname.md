@@ -1,5 +1,5 @@
 ---
-description: 'You can choose your own Wi-Fi SSID, hostname and URL'
+description: You can choose your own Wi-Fi SSID and URL
 ---
 
 # Changing the Wi-Fi SSID and URL
@@ -22,17 +22,17 @@ SSID stands for “Service Set Identifier”. The SSID is the name of the Wi-Fi 
 
 1. Click the settings cog in the top right of the navigation
 2. Click `Advanced` at the bottom of the page to expand the advanced settings
-3. Type a new hostname in the `Hostname`field.
-4. Click the `Set Hostname` button. 
+3. Type a new name in the `URL and Wi-Fi SSID`field.
+4. Click the `Set URL and Wi-Fi SSID` button. 
 5. Restart your Block.
 
 {% hint style="warning" %}
-Hostnames must be a maximum of 32 characters; lower case; no spaces and no special characters other than `_` and `-`
+URL and Wi-Fi SSIDs must be a maximum of 32 characters; lower case; no spaces and no special characters other than `_` and `-`
 {% endhint %}
 
 ### **Here is an example:**
 
-In the settings panel, I change my hostname to:
+In the settings panel, I change my URL and Wi-Fi SSID to:
 
 > my-school-name
 

@@ -19,7 +19,7 @@ Upload your content, stick the Block in your pocket and take it where it needs t
 * Multilingual
 * Automatic updates
 * Upload your own content, or content created by others
-* Mirror your pre-built website to the Block for offline access
+* Mirror your pre-built website or app to the Block for offline access
 
 ## Who is it for?
 
