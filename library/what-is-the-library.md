@@ -14,5 +14,5 @@ Our [Library](https://library.learnersblock.org) provides a central platform to 
 
 Download them directly to your Learner’s Block via the settings panel, or directly from your browser to your computer to use however you see fit.
 
-If you have resources you would like to see added, reach out to us on our [Contact Page](https://learnersblock.org/contact). Don't worry, we will be working on a more efficient way to submit resources in the near future. 
+If you have resources you would like to see added, you can submit the details for consideration via our [form](https://airtable.com/shrkg3MkzXLd7hBts). 
 
