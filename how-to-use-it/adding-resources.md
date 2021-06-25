@@ -1,6 +1,12 @@
 # Adding content
 
-There are a multitude of ways to add a range of content to your device. Click a tab below to explore each. 
+There are a multitude of ways to add a range of content to your device. 
+
+1. Through your browser
+2. From the Learner's block Library
+3. Form a USB Drive
+
+Click a tab below to explore each. 
 
 {% tabs %}
 {% tab title="Through your Browser" %}
