@@ -39,3 +39,15 @@ After installing an application it will be available to all users via the frontp
 
 If you want the installed application to be the first thing people see when they access your Block you can [change the default loading page](advanced-features/changing-the-default-loading-page.md). 
 
+## **Removing an Application**
+
+To remove an application click the Settings toggle in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
+
+Scroll down to the Application Store section and click on the label 'Installed' next to the application you want to remove:
+
+![](../.gitbook/assets/remove_app.png)
+
+Removing an application will only remove the system files. All the application settings and the content downloaded through the application will remain on the device in case you choose to install the application again later.
+
+If you want to remove your application data to free space on your Block, do so through the applications own interface.
+
