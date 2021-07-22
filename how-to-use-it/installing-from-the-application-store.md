@@ -25,7 +25,7 @@ Choose an application to install on your device and click 'Install':
 
 To check for available updates, press the refresh button.
 
-If updates are available, the button will change to indicate 'Update Available'. Click the button and the update will begin. 
+If updates are available the button will change to indicate 'Update Available'. Click the button and the update will begin. 
 
 ![](../.gitbook/assets/app-store-update-available.png)
 
@@ -33,7 +33,7 @@ Updates follow the update procedure of the application provider. This means that
 
 ## **Using an Application**
 
-After installing an application, it will be available to all users via the frontpage of your Learner's Block. Click the application you want to use to begin:
+After installing an application it will be available to all users via the frontpage of your Learner's Block. Click the application you want to use to begin:
 
 ![](../.gitbook/assets/using-application-store.png)
 
