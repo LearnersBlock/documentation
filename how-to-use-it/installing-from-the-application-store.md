@@ -21,6 +21,14 @@ Choose an application to install on your device and click 'Install':
 
 ![](../.gitbook/assets/application-store.png)
 
+## **Using an Application**
+
+After installing an application it will be available to all users via the frontpage of your Learner's Block. Click the application you want to use to begin:
+
+![](../.gitbook/assets/using-application-store.png)
+
+If you want the installed application to be the first thing people see when they access your Block you can [change the default loading page](advanced-features/changing-the-default-loading-page.md). 
+
 ## **Update an Application**
 
 To check for available updates, press the refresh button.
@@ -30,14 +38,6 @@ If updates are available the button will change to indicate 'Update Available'. 
 ![](../.gitbook/assets/app-store-update-available.png)
 
 Updates follow the update procedure of the application provider. This means that if the application provided allows for updates without losing your settings and files then the same will be true for your update on the Learner's Block. 
-
-## **Using an Application**
-
-After installing an application it will be available to all users via the frontpage of your Learner's Block. Click the application you want to use to begin:
-
-![](../.gitbook/assets/using-application-store.png)
-
-If you want the installed application to be the first thing people see when they access your Block you can [change the default loading page](advanced-features/changing-the-default-loading-page.md). 
 
 ## **Removing an Application**
 
