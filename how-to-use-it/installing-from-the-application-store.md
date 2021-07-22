@@ -1,14 +1,14 @@
 # Installing from the Application Store
 
-Your Learner's Block has an Applicaiton Store allowing on-click installation of popular EdTech platforms. 
+Your Learner's Block has an Application Store allowing on-click installation of popular EdTech platforms. 
 
-In order to install from the Application Store, you will need:
+To install from the Application Store, you will need:
 
 1. Internet connectivity via [Wi-Fi ](connecting-to-a-wi-fi-network-optional.md)or [Ethernet](advanced-features/using-an-ethernet-connection.md)
 2. Sufficient [space](../how-to-build-one/quickstart/picking-a-micro-sd-card-and-sd-card-reader.md#microsd-card) on your device for the downloaded application
 
 {% hint style="info" %}
-If you would like to know the space required for each application you can find the source containers on [GitHub](https://github.com/LearnersBlock/app-store), although it is unlikely you will encounter issues as the applications are optimised for space saving. 
+If you would like to know the space required for each application you can find the source containers on [GitHub](https://github.com/LearnersBlock/app-store), although it is unlikely you will encounter issues if you have chosen a [suitable memory card](../how-to-build-one/quickstart/picking-a-micro-sd-card-and-sd-card-reader.md#microsd-card).
 {% endhint %}
 
 ## **Install an Application**
@@ -25,7 +25,7 @@ Choose an application to install on your device and click 'Install':
 
 To check for available updates, press the refresh button.
 
-If updates are availble, the button will change to indicate 'Update Available'. Click the button and the update will begin. 
+If updates are available, the button will change to indicate 'Update Available'. Click the button and the update will begin. 
 
 ![](../.gitbook/assets/app-store-update-available.png)
 

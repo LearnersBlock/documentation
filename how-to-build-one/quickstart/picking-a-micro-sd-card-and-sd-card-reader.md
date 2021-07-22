@@ -6,7 +6,7 @@ A MicroSD card is a small memory card that stores all your data and the Learnerâ
 
 Each Block requires around 3-4GBs of storage to hold the Learnerâ€™s Block operating system. You will then want to ensure there is enough space left for your own files.  
 
-Fortunately, 8GB tends to be the entry level capacity for memory cards these days, providing plenty of storage for most users and is our recommended minimum. An 8GB card will provide plenty of space for the Blocks software, future updates and your own files, while also providing some advantages in expanding the lifespan of your card when compared to smaller cards. Prices can range between $3-10USD.
+Fortunately, 8GB tends to be the entry level capacity for memory cards, providing plenty of storage for most users and is our recommended minimum. An 8GB card will provide plenty of space for the Blocks software, future updates and your own files, while also providing some advantages in expanding the lifespan of your card when compared to smaller cards. Prices can range between $3-10USD.
 
 {% hint style="warning" %}
 We recommend not using cards over 32GB as compatibility issues may occur.
