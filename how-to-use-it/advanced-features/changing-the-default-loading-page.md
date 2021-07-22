@@ -20,5 +20,6 @@ You will be provided with a number of options:
 | File Manager | The users version of the File Manager |
 | Library | The users access to the Library through the File Manager |
 | Website | The files hosted in the [Website folder](../adding-resources.md) |
+| Application Store App | Applications installed on your Block via the [Application Store](../installing-from-the-application-store.md) |
 | Custom Start Page | An option to specify your own URL. Include only the path you want to point to. For example, entering `my-site/index.html`will forward users to http://lb.local/my-site/index.html |
 

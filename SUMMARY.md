@@ -21,6 +21,7 @@
 * [Setting your password](how-to-use-it/setting-your-password.md)
 * [Enabling components](how-to-use-it/enabling-your-required-features.md)
 * [Adding content](how-to-use-it/adding-resources.md)
+* [Installing from the Application Store](how-to-use-it/installing-from-the-application-store.md)
 * [Connecting to a Wi-Fi network \(Optional\)](how-to-use-it/connecting-to-a-wi-fi-network-optional.md)
 * [Advanced Features](how-to-use-it/advanced-features/README.md)
   * [Updating the Block](how-to-use-it/advanced-features/updating-the-device.md)
