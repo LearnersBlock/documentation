@@ -14,12 +14,47 @@ description: >-
 
 You will be provided with a number of options:
 
-| Option: | Description |
-| :--- | :--- |
-| Learner's Block Welcome Page  | The default Learner's Block navigation page |
-| File Manager | The users version of the File Manager |
-| Library | The users access to the Library through the File Manager |
-| Website | The files hosted in the [Website folder](../adding-resources.md) |
-| Application Store App | An application which you have installed on your Block via the [Application Store](../installing-from-the-application-store.md) |
-| Custom Start Page | An option to specify your own URL. Include only the path you want to point to. For example, entering `my-site/index.html`will forward users to http://lb.local/my-site/index.html |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Option:</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Learner&apos;s Block Welcome Page</td>
+      <td style="text-align:left">The default Learner&apos;s Block navigation page</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">File Manager</td>
+      <td style="text-align:left">The users version of the File Manager</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Library</td>
+      <td style="text-align:left">The users access to the Library through the File Manager</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Website</td>
+      <td style="text-align:left">The files hosted in the <a href="../adding-resources.md">Website folder</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Application Store App</td>
+      <td style="text-align:left">An application which you have installed on your Block via the <a href="../installing-from-the-application-store.md">Application Store</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Custom Start Page</td>
+      <td style="text-align:left">
+        <p>An option to specify your own URL.</p>
+        <p></p>
+        <p>Include only the path you want to point to. For example, entering <code>my-site/index.html</code>will
+          forward users to http://%%hostname%%.local/my-site/index.html.</p>
+        <p></p>
+        <p>To specify a port, enter a colon followed by the port number: <code>:8787</code>.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
