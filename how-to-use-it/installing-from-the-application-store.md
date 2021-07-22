@@ -1,4 +1,4 @@
-# Installing from the Application Store
+# Using the Application Store
 
 Your Learner's Block has an Application Store allowing on-click installation of popular EdTech platforms. 
 
@@ -11,7 +11,7 @@ To install from the Application Store, you will need:
 If you would like to know the space required for each application you can find the source containers on [GitHub](https://github.com/LearnersBlock/app-store), although it is unlikely you will encounter issues if you have chosen a [suitable memory card](../how-to-build-one/quickstart/picking-a-micro-sd-card-and-sd-card-reader.md#microsd-card).
 {% endhint %}
 
-## **Install an Application**
+## **Installing an Application**
 
 To install an application click the Settings toggle in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
 
@@ -29,7 +29,7 @@ After installing an application it will be available to all users via the frontp
 
 If you want the installed application to be the first thing people see when they access your Block you can [change the default loading page](advanced-features/changing-the-default-loading-page.md). 
 
-## **Update an Application**
+## **Updating an Application**
 
 To check for available updates, press the refresh button.
 
