@@ -7,6 +7,10 @@ In order to install from the Application Store, you will need:
 1. Internet connectivity via [Wi-Fi ](connecting-to-a-wi-fi-network-optional.md)or [Ethernet](advanced-features/using-an-ethernet-connection.md)
 2. Sufficient [space](../how-to-build-one/quickstart/picking-a-micro-sd-card-and-sd-card-reader.md#microsd-card) on your device for the downloaded application
 
+{% hint style="info" %}
+If you would like to know the space required for each application you can find the source containers on [GitHub](https://github.com/LearnersBlock/app-store), although it is unlikely you will encounter issues as the applications are optimised for space saving. 
+{% endhint %}
+
 ## **Install an Application**
 
 To install an application click the Settings toggle in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
