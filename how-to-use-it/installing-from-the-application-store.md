@@ -1,6 +1,6 @@
 # Using the Application Store
 
-Your Learner's Block has an Application Store allowing on-click installation of popular EdTech platforms. 
+Your Learner's Block has an Application Store allowing one-click installation of popular EdTech platforms. 
 
 To install from the Application Store, you will need:
 

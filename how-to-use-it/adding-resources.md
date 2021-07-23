@@ -18,9 +18,9 @@ Under the 'Components' panel, click anywhere on the 'Files' row:
 
 ![](../.gitbook/assets/screenshot-2021-03-23-at-15.00.57.png)
 
-A File Manager will open, where you can upload files and folders. Click on the 'Files' folder, and begin uploading your content. 
+A File Manager will open, where you can upload files and folders. Open the folder named 'Files', and begin uploading your content. 
 
-When a user clicks on the 'Files' menu on the first page of the Block, they will see all the files you have uploaded, but don't worry, only those who have access to the Settings panel can delete, move or change them. 
+When a user clicks on the 'Files' row on the first page of the Block, they will see all the files you have uploaded, but don't worry, only those who have access to the Settings panel can delete, move or change them. 
 
 ## Websites
 
@@ -62,9 +62,9 @@ Under the 'Components' panel, click anywhere on the 'Files' row:
 
 ![](../.gitbook/assets/screenshot-2021-03-23-at-15.00.57.png)
 
-A File Manager will open. Click on the 'Files' folder, and you will see a new directory named after your USB Drive. You can leave the Drive plugged in and use the content directly, or you can copy or move the content to the Block.
+A File Manager will open. Open the folder called 'Files' and you will see a new directory named after your USB Drive. You can leave the Drive plugged in and use the content directly, or you can copy or move the content to the Block.
 
-When a user clicks on the 'Files' menu on the first page of the Block, they will also see the USB Drive folder while the USB Drive is plugged in. 
+When a user clicks on the 'Files' row on the first page of the Block, they will also see the USB Drive folder while the USB Drive is plugged in. 
 {% endtab %}
 {% endtabs %}
 
