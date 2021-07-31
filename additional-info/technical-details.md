@@ -16,13 +16,13 @@ Updates are triggered at key intervals such as when the Block loads, or when you
 
 This service is not required by your Blocks to operate, you can run entirely offline by not connecting to a nearby internet enabled WI-FI Network.  
 
-## Block Web Server
+## Learner's Block Web Server
 
-One of the core functions of the Learner’s Block is the ability to host your own website. Running on each Block is NGINX and PHP-FPM ready to serve your files as soon as you drop them in the ‘website’ folder through your browser. 
+One of the core functions of the Learner’s Block is the ability to host your own website. Running on each Block is NGINX and PHP8-FPM ready to serve your files as soon as you drop them in the ‘website’ folder through the [File Manager](../how-to-use-it/adding-resources.md) accessed in your browser. 
 
 For more advanced hosting options, you can benefit from [Portainer](../how-to-use-it/advanced-features/using-portainer.md).
 
-## Block Resource Consumption
+## Learner's Block Resource Consumption
 
 Each Block type will use slightly different amounts of resources, although all hover around 2-3GB of storage and 250MB of RAM in order to run the base Learner’s Block platform. SWAP memory is disable in order to reduce memory card wear. 
 
