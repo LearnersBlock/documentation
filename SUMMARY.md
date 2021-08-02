@@ -29,6 +29,7 @@
   * [Changing the Default Loading Page](how-to-use-it/advanced-features/changing-the-default-loading-page.md)
   * [Changing the Wi-Fi SSID and URL](how-to-use-it/advanced-features/change-your-devices-hostname.md)
   * [Using Portainer](how-to-use-it/advanced-features/using-portainer.md)
+  * [Pruning System Files](how-to-use-it/advanced-features/pruning-system-files.md)
 
 ## Library
 
