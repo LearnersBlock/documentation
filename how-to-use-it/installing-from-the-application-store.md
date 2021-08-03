@@ -47,10 +47,14 @@ Scroll down to the Application Store section and click on the label 'Installed' 
 
 ![](../.gitbook/assets/remove_app.png)
 
-Removing an application will only stop the application from running. All the application settings, system files and the content downloaded through the application will remain on the device in case you choose to install the application again later.
+Removing an application will remove the running application. Application settings, system files and the content downloaded through the application will remain on the device if the application manufacture has allowed it.
+
+{% hint style="danger" %}
+We cannot guarantee the data will be kept when you uninstall an application. Some application designers have not built in such a functionality.
+{% endhint %}
 
 {% hint style="info" %}
-If you want to remove your application data to free up space on your Block, you can do so through the applications own interface.
+If you want to remove application data to free up space on your Block, you can do so through the applications own interface.
 {% endhint %}
 
 {% hint style="info" %}
