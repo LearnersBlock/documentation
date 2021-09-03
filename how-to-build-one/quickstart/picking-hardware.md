@@ -55,7 +55,7 @@ While there are lots to distinguish between the hardware, here is an overview of
         particularly on older releases of the device.</td>
       <td style="text-align:left">Its Quad-Core processer makes this a significant improvement over the
         Raspberry Pi Zero W. The 1GB model for a little more money will provide
-        the ablity to run more applications from the App Store.</td>
+        the ability to run more applications from the App Store.</td>
       <td style="text-align:left">Excellent value for money, although more per unit than the Raspberry Pi
         Zero</td>
       <td style="text-align:left">Shipping from China means this may take longer to arrive. But it will
@@ -74,7 +74,7 @@ While there are lots to distinguish between the hardware, here is an overview of
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">A powerful system which is a significant step up from the others. Provides
-        a good basis for running multipule applications from the App Store.</td>
+        a good basis for running multiple applications from the App Store.</td>
       <td
       style="text-align:left">A step up from the Orange Pi Zero LTS may feel worth the splurge, but
         will begin to add up if buying a large number of units</td>
