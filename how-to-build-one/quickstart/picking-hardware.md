@@ -49,13 +49,14 @@ While there are lots to distinguish between the hardware, here is an overview of
           <td style="text-align:left">$10USD</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="http://www.orangepi.org/orangepizerolts/">Orange Pi Zero LTS 512MB</a>
+      <td style="text-align:left"><a href="http://www.orangepi.org/orangepizerolts/">Orange Pi Zero LTS 512MB/1GB</a>
       </td>
       <td style="text-align:left">Issues with the Wi-Fi chip and firmware can occasionally prevent connecting,
         particularly on older releases of the device.</td>
       <td style="text-align:left">Its Quad-Core processer makes this a significant improvement over the
-        Raspberry Pi Zero W</td>
-      <td style="text-align:left">Excellent value for money, although more per unit that the Raspberry Pi
+        Raspberry Pi Zero W. The 1GB model for a little more money will provide
+        the ablity to run more applications from the App Store.</td>
+      <td style="text-align:left">Excellent value for money, although more per unit than the Raspberry Pi
         Zero</td>
       <td style="text-align:left">Shipping from China means this may take longer to arrive. But it will
         post to a wide range of countries making the availability good.</td>
@@ -66,29 +67,29 @@ While there are lots to distinguish between the hardware, here is an overview of
           in extreme heats and direct sunlight.</td>
         <td style="text-align:left">An included aerial gives the range a healthy boost</td>
         <td style="text-align:left">SD Card</td>
-        <td style="text-align:left">$17USD</td>
+        <td style="text-align:left">$17USD+</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Raspberry Pi 4 Model B 2GB</a>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">A powerful system which is a significant step up from the others. Unlikely
-        to really benefit from all of its power, but does provide future proofing
-        and a snappier response.</td>
-      <td style="text-align:left">A step up from the Orange Pi Zero LTS may feel worth the splurge, but
-        will begin to add up if buying a large number of units</td>
-      <td style="text-align:left">Good distribution, but limited in the quantities you can order at once</td>
+      <td style="text-align:left">A powerful system which is a significant step up from the others. Provides
+        a good basis for running multipule applications from the App Store.</td>
       <td
-      style="text-align:left">Quad-Core processor, 2GB of RAM (no need to go higher) and a Gigabit Ethernet
-        port means this hardware could be plugged into a school network to handle
-        larger numbers. it does mean a larger form factor that won&apos;t fit in
-        your pocket like the others.</td>
-        <td style="text-align:left">Tried and tested, produced by a reliable manufacturer</td>
-        <td style="text-align:left">No aerial, but the newer hardware and technologies provide a good range.
-          Ethernet connectivity will allow for more users, but Wi-Fi is unlikely
-          to support more users than the Orange Pi Zero LTS 512MB.</td>
-        <td style="text-align:left">SD Card</td>
-        <td style="text-align:left">$30USD</td>
+      style="text-align:left">A step up from the Orange Pi Zero LTS may feel worth the splurge, but
+        will begin to add up if buying a large number of units</td>
+        <td style="text-align:left">Good distribution, but limited in the quantities you can order at once</td>
+        <td
+        style="text-align:left">Quad-Core processor, 2GB of RAM (no need to go higher) and a Gigabit Ethernet
+          port means this hardware could be plugged into a school network to handle
+          larger numbers. it does mean a larger form factor that won&apos;t fit in
+          your pocket like the others.</td>
+          <td style="text-align:left">Tried and tested, produced by a reliable manufacturer</td>
+          <td style="text-align:left">No aerial, but the newer hardware and technologies provide a good range.
+            Ethernet connectivity will allow for more users, but Wi-Fi is unlikely
+            to support more users than the Orange Pi Zero LTS 512MB.</td>
+          <td style="text-align:left">SD Card</td>
+          <td style="text-align:left">$30USD</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://www.balena.io/fin/?">Balena Fin</a>
@@ -114,5 +115,9 @@ You can find places to buy each by clicking on the links above which will take y
 
 {% hint style="info" %}
 A little indecisive? Our personal choice is the Orange Pi Zero LTS 512MB, for its well-rounded features and power for a relatively low cost.
+{% endhint %}
+
+{% hint style="warning" %}
+While 512mb of memory is sufficient to run the Learner's Block platform, if you are planning to run several applications or demanding applications it would be better to opt for devices with 1gb of more. 
 {% endhint %}
 
