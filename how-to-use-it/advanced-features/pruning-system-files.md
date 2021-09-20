@@ -12,7 +12,11 @@ Here is an example. When you install applications from the [Application Store](.
 **Note,** however, that this will not remove your application data and settings that are used by the application manufacturer to customise the app to you. Therefore, if you reinstall the application later, your settings will be restored. If you want to remove these files, do so through the applications own interface. 
 {% endhint %}
 
-In order to prune system files, click the settings icon in the top right of the interface![](../../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png). Scroll down to 'Advanced' and open the menu. Scroll to the bottom and you will find the 'Prune' button:
+In order to prune system files, click the settings icon in the top right of the interface![](../../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png). Click the 'Advanced' tab. 
 
-![](../../.gitbook/assets/prune-files.png)
+![](../../.gitbook/assets/screenshot-2021-09-19-at-18.49.21.png)
+
+Scroll to the bottom and you will find a `Prune` button under the 'System Maintenance' heading:
+
+![](../../.gitbook/assets/screenshot-2021-09-19-at-18.49.52.png)
 

@@ -14,7 +14,7 @@ Raspberry Pi Zero has a dated ARM architecture that Portainer does not support, 
 
 We included this facility, to allow users to customise and use their Learner's Blocks in whichever way they deem necessary. Thanks to the inclusion of Portainer, you can host complex apps and websites by including backends, Node instances or anything else you can think of to build.
 
-By default, Portainer is not running to avoid use of unnecessary services. You can start and stop it on your Block in the Advanced section of the settings panel. A URL to access Portainer will be provided in the settings panel that accounts for any changes to your Blocks URL and Wi-Fi SSID but will typically be `http://lb.local/portainer/`.
+By default, Portainer is not running to avoid use of unnecessary services. You can start and stop it on your Block in the Advanced tab of the Control Panel. A URL to access Portainer will be provided in the Control Panel that accounts for any changes to your Blocks URL and Wi-Fi SSID but will typically be `http://lb.local/portainer/`.
 
 On first use the login details will be:
 

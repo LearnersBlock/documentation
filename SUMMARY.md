@@ -24,6 +24,7 @@
 * [Using the Application Store](how-to-use-it/installing-from-the-application-store.md)
 * [Connecting to a Wi-Fi network \(Optional\)](how-to-use-it/connecting-to-a-wi-fi-network-optional.md)
 * [Advanced Features](how-to-use-it/advanced-features/README.md)
+  * [Checking the Remaining Space](how-to-use-it/advanced-features/checking-the-remaining-space.md)
   * [Updating the Block](how-to-use-it/advanced-features/updating-the-device.md)
   * [Using an ethernet connection](how-to-use-it/advanced-features/using-an-ethernet-connection.md)
   * [Automatically Opening Files](how-to-use-it/advanced-features/automatically-opening-files.md)

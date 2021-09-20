@@ -18,7 +18,7 @@ Therefore, your Block provides the ability to specify a file to automatically op
 --auto-open
 ```
 
-**Only users that are not logged in to the settings panel will benefit from the automatic opening of files.** This is so that an administrator logged in to the settings panel is able to access the folder and change the files. 
+**Only users that are not logged in to the Control Panel will benefit from the automatic opening of files.** This is so that an administrator logged in to the Control Panel is able to access the folder and change the files. 
 
 {% hint style="info" %}
 Here are a few examples:

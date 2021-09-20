@@ -2,13 +2,13 @@
 
 ### Set a password
 
-In the settings panel, there are a number of features you may not want curious people to be poking around with. That is why you can set a password to lock the Settings panel, and we suggest using it. 
+You can set a password to lock the Control Panel and avoid unauthorised users from change your Block settings. 
 
 Click the Settings cog in the top right of the screen![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
 
-Then click the 'Set Password' button:
+In the `Security` section, click `Set Control Panel Password` or slide the toggle:
 
-![](../.gitbook/assets/screenshot-2021-03-23-at-14.32.19.png)
+![](../.gitbook/assets/screenshot-2021-09-19-at-18.26.58.png)
 
 Follow the prompts to set your new password. 
 
@@ -18,7 +18,7 @@ Learner's Blocks are designed for offline use. This means we cannot provide a pa
 
 ### Disable the password
 
-If you decide later on that you no longer want a password to project the Settings panel, you can disable it again with the 'Disable Password' button:
+If you decide later that you no longer want a password to project the Control Panel, you can disable it again by clicking the with `Set Control Panel Password` or sliding the toggle:
 
-![](../.gitbook/assets/screenshot-2021-03-23-at-14.35.14.png)
+![](../.gitbook/assets/screenshot-2021-09-19-at-18.30.35.png)
 

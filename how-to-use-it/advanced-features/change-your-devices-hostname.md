@@ -18,12 +18,12 @@ SSID stands for “Service Set Identifier”. The SSID is the name of the Wi-Fi 
 
 > Learners-Block
 
-**If you want to set your own, you can do so in the Settings Panel:**
+**If you want to set your own, you can do so in the Control Panel:**
 
 1. Click the settings cog in the top right of the navigation
-2. Click `Advanced` at the bottom of the page to expand the advanced settings
-3. Type a new name in the `URL and Wi-Fi SSID`field.
-4. Click the `Set URL and Wi-Fi SSID` button. 
+2. Click `Advanced` tab at the top of the page
+3. In the `Change URL and Wi-Fi SSID` section, type a new name in the field.
+4. Click the green tick button to apply the change:  ![](../../.gitbook/assets/screenshot-2021-09-19-at-18.52.48.png) 
 5. Restart your Block.
 
 {% hint style="warning" %}

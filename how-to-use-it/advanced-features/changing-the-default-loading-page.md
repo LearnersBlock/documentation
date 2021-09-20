@@ -6,11 +6,11 @@ description: >-
 
 # Changing the Default Loading Page
 
-**If you want to change the default page displayed when accessing your block, you can do so in the Settings Panel:**
+**If you want to change the default page displayed when accessing your Block, you can do so in the Control Panel:**
 
 1. Click the settings cog in the top right of the navigation
-2. Click `Advanced` at the bottom of the page to expand the advanced settings
-3. Choose a Start Page from the dropdown menu.
+2. Click the `Advanced` tab at the top of the page
+3. Under the `Choose a Start Page` section, select a new start page from the dropdown menu.
 
 You will be provided with a number of options:
 

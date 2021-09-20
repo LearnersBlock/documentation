@@ -15,9 +15,11 @@ If you would like to know the space required for each application you can find t
 
 To install an application click the Settings toggle in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
 
-Scroll down to the Application Store section and click the refresh button to fetch the latest list of available applications.
+Click the Application Store tab:
 
-Choose an application to install on your device and click 'Install':
+![](../.gitbook/assets/screenshot-2021-09-19-at-18.45.44.png)
+
+Click the refresh button to fetch the latest list of available applications, then choose an application to install and click 'Install':
 
 ![](../.gitbook/assets/application-store.png)
 
@@ -41,9 +43,7 @@ Updates follow the update procedure of the application provider. This means that
 
 ## **Removing an Application**
 
-To remove an application click the Settings toggle in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
-
-Scroll down to the Application Store section and click on the label 'Installed' next to the application you want to remove:
+To remove an application click on the label 'Installed' next to the application you want to remove:
 
 ![](../.gitbook/assets/remove_app.png)
 
