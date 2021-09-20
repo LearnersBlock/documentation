@@ -56,7 +56,7 @@ When a user clicks on the 'Library' menu on the first page of the Block, they wi
 
 ## Delete or edit content
 
-If you want to delete Library content later, navigate to the Control Panel and click on the Edit icon next to the Library toggle:
+If you want to delete Library content later, navigate to the Control Panel and click on the `Edit` icon next to the Library toggle:
 
 ![](../.gitbook/assets/screenshot-2021-09-19-at-18.32.18.png)
 {% endtab %}

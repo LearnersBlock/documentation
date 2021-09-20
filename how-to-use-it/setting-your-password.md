@@ -18,7 +18,7 @@ Learner's Blocks are designed for offline use. This means we cannot provide a pa
 
 ### Disable the password
 
-If you decide later that you no longer want a password to project the Control Panel, you can disable it again by clicking the with `Set Control Panel Password` or sliding the toggle:
+If you decide that you no longer want a password to protect the Control Panel, you can disable it by clicking the `Set Control Panel Password` section or sliding the toggle:
 
 ![](../.gitbook/assets/screenshot-2021-09-19-at-18.30.35.png)
 
