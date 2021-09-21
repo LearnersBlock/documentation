@@ -24,13 +24,6 @@ First launch of Portainer will take some time, as it needs to fetch the image an
 
 A URL to access Portainer will be provided in the Control Panel that accounts for any changes to your Blocks URL and Wi-Fi SSID but will typically be `http://lb.local:9000`.
 
-On first use the login details will be:
-
-```text
-username: admin
-password: lb
-```
-
 {% hint style="info" %}
 [Docker Hub](https://hub.docker.com) is a comprehensive database of available containers that can be pulled to the Learner's Block via Portainer. While it is not the only database, it is a good place to start finding an array of operating systems and common services.
 {% endhint %}
