@@ -22,6 +22,10 @@ A File Manager will open, where you can upload files and folders. Open the folde
 
 When a user clicks on the 'Files' row on the first page of the Block, they will see all the files you have uploaded, but don't worry, only those who have access to the Control Panel can delete, move or change them. 
 
+{% hint style="success" %}
+ePUB files clicked in the File Manager will automatically open in the built-in ePUB reader!
+{% endhint %}
+
 ## Websites
 
 A special folder exists on the Block called 'Websites'. This folder works differently than the others. When users of the Block view the content you add in this folder, they will not see files and folders like in the 'Files' component detailed above. Instead, the folder is treated like a web server, where index.html and index.php are sought and opened as webpages when available. 
