@@ -113,10 +113,6 @@ While there are lots to distinguish between the hardware, here is an overview of
 
 You can find places to buy each by clicking on the links above which will take you to the manufacturer's website.
 
-{% hint style="info" %}
-A little indecisive? Our personal choice is the Orange Pi Zero LTS 512MB, for its well-rounded features and power for a relatively low cost.
-{% endhint %}
-
 {% hint style="warning" %}
 While 512mb of memory is sufficient to run the Learner's Block platform, if you are planning to run several applications or demanding applications it would be better to opt for devices with 1gb of more. 
 {% endhint %}
