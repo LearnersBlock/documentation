@@ -1,6 +1,6 @@
 # Using the Application Store
 
-Your Learner's Block has an Application Store allowing one-click installation of popular EdTech platforms. 
+Your Learner's Block has an Application Store allowing one-click installation of popular EdTech platforms.&#x20;
 
 To install from the Application Store, you will need:
 
@@ -13,7 +13,7 @@ If you would like to know the space required for each application you can find t
 
 ## **Installing an Application**
 
-To install an application click the Settings toggle in the top right of the interface ![](../.gitbook/assets/screenshot-2021-03-23-at-13.23.52%20%281%29.png).
+To install an application click the Settings toggle in the top right of the interface ![](<../.gitbook/assets/screenshot-2021-03-23-at-13.23.52 (1).png>).
 
 Click the Application Store tab:
 
@@ -23,29 +23,35 @@ Click the refresh button to fetch the latest list of available applications, the
 
 ![](../.gitbook/assets/application-store.png)
 
+{% hint style="warning" %}
+Depending on the application you are installing, your internet connection and device resources, this process may take some time. It is not unheard of on slow connections for installs to take up to 10 minutes.&#x20;
+
+Once the install has taken place, it may also take some time for the application to launch, depending on the process developed by the manufacturer.&#x20;
+{% endhint %}
+
 ## **Using an Application**
 
 After installing an application it will be available to all users via the frontpage of your Learner's Block. Click the application you want to use to begin:
 
 ![](../.gitbook/assets/using-application-store.png)
 
-If you want the installed application to be the first thing people see when they access your Block you can [change the default loading page](advanced-features/changing-the-default-loading-page.md). 
+If you want the installed application to be the first thing people see when they access your Block you can [change the default loading page](advanced-features/changing-the-default-loading-page.md).&#x20;
 
 ## **Updating an Application**
 
 To check for available updates, press the refresh button.
 
-If updates are available the button will change to indicate 'Update Available'. Click the button and the update will begin. 
+If updates are available the button will change to indicate 'Update Available'. Click the button and the update will begin.&#x20;
 
 ![](../.gitbook/assets/app-store-update-available.png)
 
-Updates follow the update procedure of the application provider. This means that if the application provided allows for updates without losing your settings and files then the same will be true for your update on the Learner's Block. 
+Updates follow the update procedure of the application provider. This means that if the application provided allows for updates without losing your settings and files then the same will be true for your update on the Learner's Block.&#x20;
 
 ## **Removing an Application**
 
 To remove an application click on the label 'Installed' next to the application you want to remove:
 
-![](../.gitbook/assets/remove_app.png)
+![](../.gitbook/assets/remove\_app.png)
 
 Removing an application will remove the running application. Application settings, system files and the content downloaded through the application will remain on the device if the application manufacture has allowed it.
 
@@ -58,6 +64,5 @@ If you want to remove application data to free up space on your Block, you can d
 {% endhint %}
 
 {% hint style="info" %}
-If you want to remove the application system files to free up space on your device, you can [prune the system files](advanced-features/pruning-system-files.md). 
+If you want to remove the application system files to free up space on your device, you can [prune the system files](advanced-features/pruning-system-files.md).&#x20;
 {% endhint %}
-
