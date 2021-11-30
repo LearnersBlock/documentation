@@ -15,4 +15,3 @@ While there is an array of different options for powering your hardware, be warn
 | [Raspberry Pi Zero 2](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)         | ✓         |       |             |
 | [Orange Pi Zero LTS 512MB](http://www.orangepi.org/orangepizerolts/)                       | ✓         |       |             |
 | [Raspberry Pi 4 Model B 2GB](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) |           | ✓     |             |
-| [Balena Fin](https://www.balena.io/fin/?)                                                  |           |       | ✓           |
