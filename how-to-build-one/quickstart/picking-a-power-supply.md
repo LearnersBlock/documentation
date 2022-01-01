@@ -10,8 +10,8 @@ This cable can then be plugged in to USB ports on laptops, battery packs, Wi-Fi 
 While there is an array of different options for powering your hardware, be warned, ensuring sufficient power gets to the hardware as outlined by the hardware manufacturer is important to its effective.&#x20;
 {% endhint %}
 
-|                                                                                            | Micro-USB | USB-C | Barrel jack |
-| ------------------------------------------------------------------------------------------ | --------- | ----- | ----------- |
-| [Raspberry Pi Zero 2](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)         | ✓         |       |             |
-| [Orange Pi Zero LTS 512MB](http://www.orangepi.org/orangepizerolts/)                       | ✓         |       |             |
-| [Raspberry Pi 4 Model B 2GB](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) |           | ✓     |             |
+|                                                                                            | Micro-USB | USB-C |
+| ------------------------------------------------------------------------------------------ | --------- | ----- |
+| [Raspberry Pi Zero 2](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)         | ✓         |       |
+| [Orange Pi Zero LTS 512MB](http://www.orangepi.org/orangepizerolts/)                       | ✓         |       |
+| [Raspberry Pi 4 Model B 2GB](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) |           | ✓     |
