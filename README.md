@@ -27,4 +27,4 @@ Everyone and anyone. While we have built the Block with education in emergencies
 
 ## Where can I get one?
 
-Right [here](https://downloads.learnersblock.org). Learner’s Block is software available for download for free from our website. It is designed to be deployed on hardware you can afford where you are and provides a range of compatible options. Many of our users opt for Raspberry Pi’s and Orange Pi’s due to their large distribution network and low costs. For instructions on how to install the software, check out our [Quickstart](how-to-build-one/quickstart/) guide.&#x20;
+Right [here](https://downloads.learnersblock.org). Learner’s Block is software available for download for free from our website. It is designed to be deployed on hardware you can afford where you are and provides a range of compatible options. For instructions on how to install the software, check out our [Quickstart](how-to-build-one/quickstart/) guide.&#x20;
